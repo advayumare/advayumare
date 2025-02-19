@@ -11,9 +11,9 @@ I'm Advay, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <br/>
-<h3 align="center">
+<!--<h3 align="center">
 My Tech Stacks
 </h3>
 
 <h3 align="center">
-</h3>
+</h3>-->
